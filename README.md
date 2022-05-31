@@ -2,11 +2,11 @@
 This bootcamp was created by [42AI](https://github.com/42-AI).
 
 ### Table of Contents
-  - [Module00 - Stepping Into Machine Learning](#module05---stepping-into-machine-learning)
-  - [Module01 - Univariate Linear Regression](#module06---univariate-linear-regression)
-  - [Module02 - Multivariate Linear Regression](#module07---multivariate-linear-regression)
-  - [Module03 - Logistic Regression](#module08---logistic-regression)
-  - [Module04 - Regularization](#module09---regularization)
+  - [Module00 - Stepping Into Machine Learning](#module00---stepping-into-machine-learning)
+  - [Module01 - Univariate Linear Regression](#module01---univariate-linear-regression)
+  - [Module02 - Multivariate Linear Regression](#module02---multivariate-linear-regression)
+  - [Module03 - Logistic Regression](#module03---logistic-regression)
+  - [Module04 - Regularization](#module04---regularization)
  
 ## Content
 ### Module00 - Stepping Into Machine Learning
