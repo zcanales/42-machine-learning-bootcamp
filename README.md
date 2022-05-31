@@ -2,31 +2,36 @@
 This bootcamp was created by [42AI](https://github.com/42-AI).
 
 ### Table of Contents
-  - [Module05 - Stepping Into Machine Learning](#module05---stepping-into-machine-learning)
-  - [Module06 - Univariate Linear Regression](#module06---univariate-linear-regression)
-  - [Module07 - Multivariate Linear Regression](#module07---multivariate-linear-regression)
-  - [Module08 - Logistic Regression](#module08---logistic-regression)
-  - [Module09 - Regularization](#module09---regularization)
+  - [Module00 - Stepping Into Machine Learning](#module05---stepping-into-machine-learning)
+  - [Module01 - Univariate Linear Regression](#module06---univariate-linear-regression)
+  - [Module02 - Multivariate Linear Regression](#module07---multivariate-linear-regression)
+  - [Module03 - Logistic Regression](#module08---logistic-regression)
+  - [Module04 - Regularization](#module09---regularization)
  
 ## Content
-### Module00 - Basics 1 - Eleven Commandments
-**Let's get started with the Python language!** :snake:
-> Basic setup, variables, types, functions, ...
+### Module00 - Stepping Into Machine Learning
+**Get started with some linear algebra and statistics**
+> Sum, mean, variance, standard deviation, vectors and matrices operations.  
+> Hypothesis, model, regression, loss function.
 
-### Module01 - Basics 2
-**Get acquainted with object-oriented programming and much more.**
-> Objects, cast, inheritance, built-in functions, generator, construtors, iterator, ...
+### Module01 - Univariate Linear Regression
+**Implement a method to improve your model's performance: **gradient descent**, and discover the notion of normalization**
+> Gradient descent, linear regression, normalization.
 
-### Module02 - Basics 3
-**Continue practicing with more advanced Python programming exercises.**
-> Decorators, multiprocessing, lambda, build package, ...
+### Module02 - Multivariate Linear Regression
+**Extend the linear regression to handle more than one features, build polynomial models and detect overfitting**
+> Multivariate linear hypothesis, multivariate linear gradient descent, polynomial models.  
+> Training and test sets, overfitting.
 
-### Module03 - NumPy
-**Learn how to use the NumPy library, manipulate multidimensional arrays and perform complex mathematical operations on matrices!**
-> NumPy array, slicing, stacking, dimensions, broadcasting, normalization, etc...
+### Module03 - Logistic Regression
+**Discover your first classification algorithm: logistic regression!**
+> Logistic hypothesis, logistic gradient descent, logistic regression, multiclass classification.  
+> Accuracy, precision, recall, F1-score, confusion matrix.
 
-### Module04 - Pandas
-**Time to use a Python library that will allow you to manipulate dataframes.**
-> Pandas! And Bamboos! :panda_face:
+### Module04 - Regularization
+**Fight overfitting!**
+> Regularization, overfitting. Regularized loss function, regularized gradient descent.  
+> Regularized linear regression. Regularized logistic regression.
+
 
 More information [here](https://github.com/42-AI/bootcamp_machine-learning/blob/master/README.md).
